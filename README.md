@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Sua Musica de Verão" style="max-width:800px;" src="https://suamusicadeverao.vercel.app/images/cover.jpg" />
+    <img alt="Sua Musica de Verão" style="max-width:600px;" src="https://suamusicadeverao.vercel.app/images/cover.jpg" />
     <br/>
     <img alt="Sua Musica de Verão" style="max-width:800px;" src="https://suamusicadeverao.vercel.app/images/presentation.gif" />
     <br/>
