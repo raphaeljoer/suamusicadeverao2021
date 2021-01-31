@@ -1,6 +1,8 @@
 <h1 align="center">
+    <img alt="Sua Musica de Verão" style="max-width:800px;" src="https://suamusicadeverao.vercel.app/images/cover.jpg" />
+    <br/>
     <img alt="Sua Musica de Verão" style="max-width:800px;" src="https://suamusicadeverao.vercel.app/images/presentation.gif" />
-    <br>
+    <br/>
     Prêmio Sua Música de Verão
 </h1>
 
