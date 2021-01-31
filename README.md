@@ -13,7 +13,7 @@ This project was developed by [Raphael Joer](https://www.linkedin.com/in/raphael
 
 - [NextJs](https://nextjs.org/)
 - [ReactJS](https://reactjs.org/)
-- [Typescript][ts]
+- [Typescript](https://www.typescriptlang.org/)
 - [MongoDB](https://www.mongodb.com/2)
 - [styled-components](https://www.styled-components.com/)
 - [react-router-dom](https://github.com/ReactTraining/react-router)
